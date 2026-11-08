@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Запасы дома</string>
+    <string name="sections_title">Разделы</string>
+    <string name="sections_empty">Разделов пока нет</string>
+    <string name="section_create_title">Новый раздел</string>
+    <string name="section_name_label">Название</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_cancel">Отмена</string>
+</resources>

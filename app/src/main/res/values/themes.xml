@@ -1,0 +1,4 @@
+<resources>
+    <!-- Базовая тема: окно до загрузки Compose. Цвета задаются в Compose (Material 3). -->
+    <style name="Theme.MyApplication" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
